@@ -1,0 +1,10 @@
+.detail-div{
+    padding: 20px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+ 
+}
+.detail-div div{
+    width: 400px;
+}

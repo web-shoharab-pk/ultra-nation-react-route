@@ -1,0 +1,11 @@
+.country-info{
+    border: 3px solid springgreen;
+    text-align: center;
+    line-height: 5px;
+    border-radius: 15px;
+    background-color: #2bf33c;
+    padding: 10px;
+}
+.country-info img{
+    width: 250px;
+}
